@@ -1,4 +1,4 @@
-###  Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+###  Hey!
 
 My name is João Vitor <br>
 I'm a Front-end developer at [NZN](https://nzn.io) and started in web development in 2012. :computer:<br>
