@@ -1,7 +1,7 @@
 ###  Hey!
 
 My name is João Vitor <br>
-I'm a Front-end Engineer at [XNV](https://xnv.io) and started in web development in 2012. :computer:<br>
+I'm a Frontend Software Engineer at [XNV](https://xnv.io) and started in web development in 2012. :computer:<br>
 Brazilian, based in Piracicaba, SP.  :house_with_garden:<br>
 
 ![joaovitordmoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitordmoraes&show_icons=true&theme=dracula)
