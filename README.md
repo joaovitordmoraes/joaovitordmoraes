@@ -1,7 +1,7 @@
 ###  Hey!
 
 My name is João Vitor <br>
-I'm a Frontend Developer at [Maltego](https://www.maltego.com/) started in web development in 2012. :computer:<br>
+I'm a Senior Web Developer at [Maltego](https://www.maltego.com/) started in web development in 2012. :computer:<br>
 Brazilian, based in Piracicaba, SP.  :house_with_garden:<br>
 
 #### You can find me on
